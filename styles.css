@@ -1,0 +1,14 @@
+.backgroundImage {
+    background: url("http://promo.heart.co.uk/valentines16/img/intro/hearts.png");
+}
+
+p {
+    color: red;
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: justify;
+}
+
+body {
+    background-image: url("https://image.freepik.com/free-vector/grey-linen-texture-background_1053-253.jpg");
+}
